@@ -1,3 +1,0 @@
-# La contraseña son siempre los caracteres 3º a 6º de la cadena de la derecha.
-ADMIN=AB1234KLM9
-Coruña=ZX1111PQ7R
