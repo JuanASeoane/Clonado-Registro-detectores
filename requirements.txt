@@ -12,3 +12,5 @@ pymupdf>=1.24
 rapidocr==3.9.2
 onnxruntime
 zxing-cpp
+streamlit-webrtc
+
