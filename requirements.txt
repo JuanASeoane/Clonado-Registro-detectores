@@ -11,3 +11,4 @@ tzdata>=2024.1
 pymupdf>=1.24
 rapidocr==3.9.2
 onnxruntime
+zxing-cpp
